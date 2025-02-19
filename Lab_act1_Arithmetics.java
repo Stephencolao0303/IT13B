@@ -5,6 +5,8 @@ public class Lab_act1_Arithmetics {
 
     public static void main(String[] args) {
        
+        
+        
         int firstNumber = 10;
         int secondNumber = 4;
         int thirdNumber = 6;
